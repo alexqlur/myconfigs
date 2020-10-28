@@ -1,0 +1,15 @@
+[user]
+	email = alexqlur@gmail.com
+	name = Alex Qlur
+[log]
+	date = relative
+[alias]
+	hist = log --graph --decorate
+	c = config
+	cm = commit -m
+	s = status
+	cg = config --global
+	ha = help -a
+	aa = add *
+[core]
+	editor = nano
