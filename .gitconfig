@@ -12,4 +12,4 @@
 	ha = help -a
 	aa = add *
 [core]
-	editor = nano
+	editor = vim
